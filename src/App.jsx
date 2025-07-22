@@ -103,9 +103,9 @@ function App() {
         <div className="footer-content">
           <div className="contact-info">
             <h3>联系我们</h3>
-            <p>地址：浙江省杭州市西湖区云栖小镇</p>
-            <p>电话：0571-88888888</p>
-            <p>邮箱：contact@hias.ac.cn</p>
+            <p>地址：浙江省杭州市钱塘区下沙街道东方街150号</p>
+            <p>电话：0571-88123905</p>
+            <p>邮箱：him_office@him.cas.cn</p>
           </div>
 
           <div className="copyright">
